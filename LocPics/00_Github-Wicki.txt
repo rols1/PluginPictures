@@ -1,0 +1,125 @@
+https://github.com/rols1/TuneIn2017.wiki.git
+
+# This side shows the context to the terms, which are to be translated for the plugin TuneIn2017.
+
+Please notice that the choosen language (in preferences):
+1. has affect on plugin (Dialogues, Error-messages etc.) and
+2. has affect on tuneIn (categories)
+See picture.
+The information about the choosen language ist transported to tunein via HTTP-Header.
+
+![Language_effects](https://github.com/rols1/TuneIn2017)
+
+
+The Localisation-Project for TuneIn2017 is only related to case 1: Dialogues, Error-messages etc. produced by the plugin.
+
+
+1. Browse TuneIn
+This term is shown at the start of plugin. It's an invitation to browse the content.
+![Browse TuneIn](https://github.com/rols1/TuneIn2017)
+
+2. My Favourites
+This term is shown as menu-title for the first menu, but only if an tunein-account exists for the username (preferences) 
+![My_Favourites](https://github.com/rols1/TuneIn2017)
+
+3. My Stations
+This term is not used yet.
+![My_Stations](https://github.com/rols1/TuneIn2017)
+
+4. Search
+This term is shown as title for the search-function - but not in all players (e.g not in Webplayer). Pic shows the player Open PlexHomeTheater.
+![Search](https://github.com/rols1/TuneIn2017)
+
+5. Search Station / Title
+This term is not used yet.
+![Search_Station_Title](https://github.com/rols1/TuneIn2017)
+
+6. Search for
+This term is not used yet.
+![Search_for](https://github.com/rols1/TuneIn2017)
+
+7. No results for
+This term is shown as menu-title if a search has failed. The menu directs to Home.
+![No results for](https://github.com/rols1/TuneIn2017)
+
+8. Error
+This term is shown as title of an error-message. The title is not shown in all players (e.g not in Webplayer). Pic shows the player Open PlexHomeTheater.
+![Error](https://github.com/rols1/TuneIn2017)
+
+9. new Update available
+This term is combined in plugin with term nr. 10 "install now"
+This term is shown as menu-title if a new plugin-update can be downloaded from Github. 
+If in preferences the Plugin-Notification is **activated** the plugin shows only this single menu.
+The pic shows the cropped menu in poster-view
+![new_Update_available](https://github.com/rols1/TuneIn2017)
+
+10. install now
+This term is combined in plugin with term nr. 9 "new Update available"
+This term is shown as menu-title if a new plugin-update can be downloaded from Github. 
+The pic shows the menu in detail-view
+![new_Update_available_install_now](https://github.com/rols1/TuneIn2017)
+
+11. Cancel Update
+This term is shown as menu-title in the same situation as in nr. 9 - but only if in preferences the Plugin-Notification is **deactivated**. In this case the search for an update must be manually initiated with the menu "Start searching for new Updates" (nr. ??). If an update is available, the menu "Cancel Update" allows a clean return to main-menu.
+![new_Update_Cancel_Update_continue_with_present_Plugin](https://github.com/rols1/TuneIn2017)
+
+12. continue with present Plugin
+This term is combined in plugin with term nr. 11 "Cancel Update"
+It's used in the same menu like nr.11 as summary-line.
+![new_Update_Cancel_Update_continue_with_present_Plugin](https://github.com/rols1/TuneIn2017)
+
+13. is the latest version
+This term is shown as menu-summary-line if the menu "Start searching for new Updates" was activated but Github has no newer version. This menu has the title "Plugin up to date" and allows a clean return to main-menu.
+![is_the_latest_version](https://github.com/rols1/TuneIn2017)
+ 
+14. Start searching for new Updates
+This term is combined in plugin with term nr.15 "source of supply" (as  menu-tagline-line).
+This term is shown as menu-summary-line if in preferences the Plugin-Notification is **deactivated**.
+Title of this menu is "Plugin-Update" (no translation-term).
+![Start_searching_for_new_Updates](https://github.com/rols1/TuneIn2017)
+
+15. source of supply
+This term is combined in plugin with term nr.14 "Start searching for new Updates" (as  menu-summary-line).
+This term is shown as menu-tagline-line if in preferences the Plugin-Notification is **deactivated**.
+Title of this menu is "Plugin-Update" (no translation-term).
+![source_of_supply](https://github.com/rols1/TuneIn2017)
+
+16. Github is not available
+This term is shown as error-message if the plugin could not establish an internet-connection to Github.
+This error-message only occurs if "Plugin-Update" is manually started.
+![Github_is_not_available](https://github.com/rols1/TuneIn2017)
+
+17. Please deselect the Plugin-Notification
+This term is combined in plugin with term nr.16 "Github is not available".
+It's completed the term nr. 16 if in preferences the Plugin-Notification is **activated** - otherwise the plugin would be blocked.
+Pic 1 shows the preferences, pic 2 the combination of this term with term nr. 17.
+![Please_deselect_the_Plugin-Notification-1](https://github.com/rols1/TuneIn2017)
+![Please_deselect_the_Plugin-Notification-2](https://github.com/rols1/TuneIn2017)
+
+18. Please check username
+This term is shown as menu-summary-line if the menu "My Favourites" (term nr. 2) was activated but no tunein-account exists for the username (given in preferences). In this case tunein returns the error-status 400 which is used by the plugin as menu-title. This menu allows a clean return to the main-menu.
+Pic 1 shows the preferences with a false username, pic 2 the error-menu
+![Please_check_username-1](https://github.com/rols1/TuneIn2017)
+![Please_check_username-2](https://github.com/rols1/TuneIn2017)
+
+
+19. no stream found for
+This term is shown as error-message if the plugin could not find a stream behind the tunein-Links for a station.
+![no_stream_found_for](https://github.com/rols1/TuneIn2017)
+
+20. not found
+This term is not used yet.
+![not_found](https://github.com/rols1/TuneIn2017)
+
+21. More...
+This term is shown as menu-tagline if tunein offers category with more content. Title of the menu will be the category-label, e.g. "More Shows".
+Pic 1 shows the preferences such categories in poster-view, pic 2 in detail-view with the menu-tagline "More..."
+![More-1](https://github.com/rols1/TuneIn2017)
+![More-2](https://github.com/rols1/TuneIn2017)
+
+22. new try
+This term is shown as menu-title and menu-summary-line. 
+If a stream is labelled as inkompatible by tunein, the plugin offers with this menu an other method to get the stream-source.
+![new_try](https://github.com/rols1/TuneIn2017)
+
+
