@@ -1,7 +1,0 @@
-account-Hinweise entfernen
-wicki github anlegen
-slideshow einstellen
-POEdito: hinweis-message an contributors
-
-Wicki:
-	https://github.com/rols1/TuneIn2017.wiki.git
