@@ -1,0 +1,82 @@
+# tivi-Sendungen
+# aus Wickipedia 19.07.2016 - genutzt für die Kika-Suche in tivi (Kika_Videos, Kika_Bildgalerie), greift zur Zeit
+#	lediglich bei pur+, Wickie und die starken Männer,  
+# Vor-Verarbeitung im Plugin (-> Wickped_Sendungen):
+#	Konzept: Ausschluss-Worte entfernen, wortweise mit Liste Wickped_Sendungen vergleichen, erst bei 
+#		Match Suche in TIVISearch_FIND starten
+#  
+#
+# Ausschluss:[und dem der die das von sein ist mit den dein an]
+
+# aktuelle Ausstrahlung
+Alien Surfgirls
+Bibi Blocksberg
+Bibi und Tina
+Briefe von Felix
+Checkpoint
+Dance Academy – Tanz deinen Traum!
+Das Dschungelbuch
+Das Haustiercamp
+Der Goldene Tabaluga
+Der kleine Ritter Trenk
+Die Biene Maja
+Die Wilden Kerle
+Heidi
+H2O – Plötzlich Meerjungfrau
+JoNaLu
+Let’s talk
+logo!
+Löwenzahn
+Löwenzähnchen
+Mako – Einfach Meerjungfrau
+Meine Freundin Conni
+Mia and me – Abenteuer in Centopia
+Peter Pan – Neue Abenteuer
+Pettersson und Findus
+Pippi Langstrumpf
+Pippi Langstrumpf (Zeichentrick)
+pur+
+Ritter Rost
+Roary der Rennwagen
+Robin Hood – Schlitzohr von Sherwood
+Siebenstein
+stark!
+Terra MaX
+Total Genial
+Wendy
+Wickie und die starken Männer
+Wolfblood – Verwandlung bei Vollmond
+1, 2 oder 3
+
+# ehemalige Ausstrahlung:
+Anton Ameise
+Billy the Cat
+Der kleine Nick
+Die Biene Maja
+Die Blechköpfe
+Die Pirateninsel
+Dog City
+Ein Engel für alle
+Eine lausige Hexe
+Expedition der Stachelbeeren
+Flipper & Lopaka
+Gingers Welt
+Heidi
+Mona der Vampir
+Ocean Girl
+Pengo! Steinzeit!
+Piets irre Pleiten
+Scooter – Super-Spezialagent
+Spellbinder – Gefangen in der Vergangenheit
+Spellbinder – Im Drachenkaiserland
+Tabaluga
+Tabaluga tivi
+Tolle Trolle
+Tom – Ein echter Freund
+Tupu – Das wilde Mädchen aus dem Central Park
+Twist total – Eine australische Familie legt los
+Unsichtbar
+Weit weg
+Wickie und die starken Männer
+Zurück nach Sherwood Forest
+Zwei allein
