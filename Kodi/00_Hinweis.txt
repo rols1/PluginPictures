@@ -1,0 +1,4 @@
+PluginPictures/Kodi:
+	/ARDundZDF: Bilder für Wicki (Settings)
+	/FlickrExplorer: Bilder Forum + ev. Wicki
+	/TuneIn2017: Bilder für Forum + ev. Wicki
