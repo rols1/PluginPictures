@@ -1,2 +1,2 @@
 PluginPictures/ARDundZDF:
-	Icons zum Nachladen des Addons ARDundZDF (aus Platzgründen)
+	Icons zum Nachladen für Addon ARDundZDF (aus Platzgründen)
