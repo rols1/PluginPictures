@@ -1,0 +1,21 @@
+Details: tvtoday-Kennung Sendername HLS-Link Logo Urheber/Lizens
+
+	TVM	münchen.tv				https://www.muenchen.tv/ https://stream02.stream.welocal.world/stream/muc/ngrp:muc.stream_all/playlist.m3u8
+			https://de.wikipedia.org/wiki/M%C3%BCnchen_TV#/media/Datei:Logo_m%C3%BCnchen.tv.gif
+			Urheber/Lizens: Von Crimson9999 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27486476
+		
+	LEITV	Leipzig Fernsehen		sachsen-fernsehen.de https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+			https://de.wikipedia.org/wiki/Leipzig_Fernsehen#/media/Datei:LogoLeipzigFernsehen.png
+			Urheber/Lizens: Leipzig Fernsehen, CC-Lizenz
+
+	HH1	Hamburg 1				hamburg1.de https://58de7a369a9c4.streamlock.net/hamburg1/stream/ngrp:7651_HMkJvNn7dVFZjhw_all/chunklist_w1351735637_b2128000_tkaGgxZW5kdGltZT0xNTkyNTgyNDQyJmhoMXN0YXJ0dGltZT0xNTkyNTYwODMyJmhoMWhhc2g9ZlV0elN5aXBuSWtKUUhEbGpNS0tSdnR1amFJMHp5VnpjWUM4a3hoSmVScz0=.m3u8				
+			https://de.wikipedia.org/wiki/Hamburg_1#/media/Datei:Hamburg-1-Logo_2012.svg
+			Urheber/Lizens: Hamburg 1 / Public domain
+
+	RMTV	rheinmain tv			rheinmaintv.de https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+			https://de.wikipedia.org/wiki/Rheinmaintv#/media/Datei:RheinMain_TV_Logo.svg
+			Urheber/Lizens: gemeinfrei - s. wikipedia
+
+	RNF	Rhein-Neckar Fernsehen	https://www.rnf.de/	https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+			https://de.wikipedia.org/wiki/Rhein-Neckar_Fernsehen#/media/Datei:RNF_Logo.svg
+			Urheber/Lizens: gemeinfrei - s. wikipedia
