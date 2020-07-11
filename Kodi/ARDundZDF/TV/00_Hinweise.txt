@@ -1,3 +1,6 @@
+Konvertierung SVG-Dateien mittels convert aus ImageMagick:
+	convert in.svg out.png
+
 Details: tvtoday-Kennung Sendername HLS-Link Bildquelle Github-Link Logo Urheber/Lizens
 
 			BadenTV					https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
